@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "username": "Admin",
+            "password": "admin123",
+            "status": "PASSED"
+        },
+        {
+            "id": 2,
+            "username": "lindsay.ferguson@reqres.in",
+            "password": "Lindsay",
+            "status": "FAILED"
+        },
+        {
+            "id": 3,
+            "username": "tobias.funke@reqres.in",
+            "password": "Tobias",
+            "status": "FAILED"
+        },
+        {
+            "id": 4,
+            "username": "byron.fields@reqres.in",
+            "password": "Byron",
+            "status": "FAILED"
+        },
+        {
+            "id": 5,
+            "username": "george.edwards@reqres.in",
+            "password": "George",
+            "status": "FAILED"
+        },
+        {
+            "id": 6,
+            "username": "rachel.howell@reqres.in",
+            "password": "Rachel",
+            "status": "FAILED"
+        },
+        {
+            "id": 7,
+            "username": "Admin",
+            "password": "admin123",
+            "status": "PASSED"
+        }
+    ]
+}
